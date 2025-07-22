@@ -54,8 +54,6 @@ Working on responsible AI use cases with real-world datasets and model optimizat
 
 ## 💬 Interests & Activities
 - 📽 Video production & content for student orgs (e.g., Rutgers MSA)
-- 👟 Streetwear + sneaker culture
-- 🧠 Faith + productivity systems
 - 🚴 Long-running and exploring new cities
 - 🤝 Community building & mentoring in data science
 
@@ -77,9 +75,5 @@ Working on responsible AI use cases with real-world datasets and model optimizat
 
 ---
 
-## 📝 Blog
-Coming soon — sharing reflections on AI, UI/UX, and student life as a first-gen CS major.
-
----
 
 Let me know if you'd like this deployed as a GitHub profile repo or need a visual template version (`profile/README.md` with badges, icons, and pinned projects).
