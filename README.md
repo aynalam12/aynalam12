@@ -32,16 +32,16 @@
 
 ## 🚀 Key Projects
 
-### 🔹 [Pomodoro Timer](https://github.com/aynalam12/pomodoro-timer)
+### 🔹 [Pomodoro Timer](https://github.com/aynalam12/Pomodoro-Timer)
 Responsive, accessible Pomodoro app using JavaScript and CSS Grid. Helps 25+ users manage time effectively.
 
-### 🔹 [Simple Blockchain App](https://github.com/aynalam12/simple-blockchain)
+### 🔹 [Simple Blockchain App](https://github.com/aynalam12/Simple-BlockChain-App)
 Java-based blockchain simulator with hash-linked blocks and modular OOP structure.
 
-### 🔹 [Clean Air Website](https://github.com/aynalam12/clean-air)
+### 🔹 [Clean Air Website](https://github.com/aynalam12/Clean-Air-Final)
 Static site promoting air quality awareness, built with HTML/CSS and responsive design.
 
-### 🔹 [Fall AI Studio (Break Through Tech)](https://www.breakthroughtech.org) *(Coming Soon)*
+### 🔹 [Fall AI Studio (Break Through Tech)] *(Coming Soon)*
 Working on responsible AI use cases with real-world datasets and model optimization.
 
 ---
