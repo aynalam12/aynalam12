@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ayaan Alam</h1>
 <h3 align="center">First-generation Honors student @ Rutgers • Developer • Data + AI/ML Enthusiast</h3>
 
+<p align="center">
+  I’m a first-generation Honors student in the B.S. Computer Science and Data Science program at Rutgers University–New Brunswick.
+  I see tech not just as a tool, but as a bridge — a bridge to equity, efficiency, and innovation.
+  <br><br>
+  My passion lies in using data and AI/ML to build software that solves real-world problems — from improving user experience to designing responsible AI systems.
+  <br>
+  I’m always eager to learn, grow, and gain real-world experience through meaningful projects.  
+  <br><br>
+  Let’s connect — whether it’s to <b>learn together</b>, <b>build together</b>, or just <b>share ideas</b>!
+</p>
+
 - 🔭 I’m currently working on **Prudential AI Audit – Enterprise Marketing Project (private repo)**
 
 - 🌱 I’m currently learning **Machine Learning workflows with Python and Jupyter React, Tailwind, Firebase Responsible AI, agile UX, and human-centered product design**
