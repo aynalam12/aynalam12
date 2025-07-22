@@ -5,8 +5,8 @@
 <p align="center">
   I’m a first-generation Honors student at Rutgers University–New Brunswick, studying Computer Science and Data Science.
   I see tech not just as a tool — but as a <b>bridge</b> to equity, innovation, and impact.
-  I’m passionate about building clean, responsible software using <b>AI</b>, <b>data</b>, and <b>design</b>.
-  🔍 Let’s connect — whether it’s to <b>learn together</b>, <b>build together</b>, or <b>share ideas</b>!<br><br>
+  I’m passionate about building clean, responsible software using <b>AI</b>, <b>data</b>, and <b>design</b>.<br><br>
+  🔍 Let’s connect — whether it’s to <b>learn together</b>, <b>build together</b>, or <b>share ideas</b>!
 </p>
 
 <hr>
