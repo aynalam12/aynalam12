@@ -1,34 +1,88 @@
 <h1 align="center">Hi 👋, I'm Ayaan Alam</h1>
-<h3 align="center">First-generation Honors student @ Rutgers • Developer • Data + AI/ML Enthusiast</h3>
+<h3 align="center">👨‍💻 Honors CS + DS @ Rutgers | Aspiring AI Engineer | Frontend Dev | Product Thinker</h3>
 
 <p align="center">
-  I’m a first-generation Honors student in the B.S. Computer Science and Data Science program at Rutgers University–New Brunswick.
-  I see tech not just as a tool, but as a bridge — a bridge to equity, efficiency, and innovation.
-  <br><br>
-  My passion lies in using data and AI/ML to build software that solves real-world problems — from improving user experience to designing responsible AI systems.
+  I’m a first-generation Honors student at Rutgers University–New Brunswick studying Computer Science and Data Science.
   <br>
-  I’m always eager to learn, grow, and gain real-world experience through meaningful projects.  
+  I see tech not just as a tool, but as a bridge — to equity, innovation, and impact.
+  <br>
+  Passionate about building clean, responsible software using AI, data, and design.
   <br><br>
-  Let’s connect — whether it’s to <b>learn together</b>, <b>build together</b>, or just <b>share ideas</b>!
+  🔍 Let’s connect — whether it's to <b>learn together</b>, <b>build together</b>, or <b>share ideas</b>!
 </p>
 
-- 🔭 I’m currently working on **Prudential AI Audit – Enterprise Marketing Project (private repo)**
+---
 
-- 🌱 I’m currently learning **Machine Learning workflows with Python and Jupyter React, Tailwind, Firebase Responsible AI, agile UX, and human-centered product design**
-
-- 👯 I’m looking to collaborate on **AI projects**
-
-- 🤝 I’m looking for help with **creating neural networks**
-
-- 💬 Ask me about **Accessibility-first frontend design, building portfolio-ready apps, or just how to start!**
-
-- 📫 How to reach me **ayaanalam0121@gmail.com**
-
-- ⚡ Fun fact **I used to be able to run a mile in 6 minutes!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Java-informational?style=flat&logo=java" />
+  <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/React-informational?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase" />
+  <img src="https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter" />
+  <img src="https://img.shields.io/badge/Scikit--learn-informational?style=flat&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/Seaborn-informational?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/Figma-informational?style=flat&logo=figma" />
+  <img src="https://img.shields.io/badge/Jira-informational?style=flat&logo=jira" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 Key Projects
+
+### 🔹 [Pomodoro Timer](https://github.com/aynalam12/pomodoro-timer)
+Responsive, accessible Pomodoro app using JavaScript and CSS Grid. Helps 25+ users manage time effectively.
+
+### 🔹 [Simple Blockchain App](https://github.com/aynalam12/simple-blockchain)
+Java-based blockchain simulator with hash-linked blocks and modular OOP structure.
+
+### 🔹 [Clean Air Website](https://github.com/aynalam12/clean-air)
+Static site promoting air quality awareness, built with HTML/CSS and responsive design.
+
+### 🔹 [Fall AI Studio (Break Through Tech)](https://www.breakthroughtech.org) *(Coming Soon)*
+Working on responsible AI use cases with real-world datasets and model optimization.
+
+---
+
+## 🏆 Certifications & Achievements
+- 🎓 Selected AI/ML Fellow at Break Through Tech AI @ Cornell Tech (Top 1% from 3,000+ applicants)
+- 🥇 Final project showcased at Samsung 837 via America on Tech
+- 📊 Conducted an AI audit at Prudential, influencing the 2026 product strategy
+
+---
+
+## 💬 Interests & Activities
+- 📽 Video production & content for student orgs (e.g., Rutgers MSA)
+- 👟 Streetwear + sneaker culture
+- 🧠 Faith + productivity systems
+- 🚴 Long-running and exploring new cities
+- 🤝 Community building & mentoring in data science
+
+---
+
+## 📬 Contact
+- 📧 Email: [ayaanalam0121@gmail.com](mailto:ayaanalam0121@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayaan-)  
+- 🖥 [Portfolio](https://your-portfolio-link.com) *(Coming soon)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aynalam12&show_icons=true&theme=tokyonight&hide=stars" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aynalam12&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📝 Blog
+Coming soon — sharing reflections on AI, UI/UX, and student life as a first-gen CS major.
+
+---
+
+Let me know if you'd like this deployed as a GitHub profile repo or need a visual template version (`profile/README.md` with badges, icons, and pinned projects).
