@@ -74,6 +74,3 @@ Working on responsible AI use cases with real-world datasets and model optimizat
 </p>
 
 ---
-
-
-Let me know if you'd like this deployed as a GitHub profile repo or need a visual template version (`profile/README.md` with badges, icons, and pinned projects).
