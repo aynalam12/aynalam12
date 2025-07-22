@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayaan Alam</h1>
 <h3 align="center">👨‍💻 Honors CS + DS @ Rutgers | Aspiring AI Engineer | Frontend Dev | Product Thinker</h3>
 
-<p align="center">
+<p align="left">
   I’m a first-generation Honors student at Rutgers University–New Brunswick studying Computer Science and Data Science.
   <br>
   I see tech not just as a tool, but as a bridge — to equity, innovation, and impact.
