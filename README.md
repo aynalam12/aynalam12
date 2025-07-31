@@ -39,6 +39,9 @@ Java-based blockchain simulator with hash-linked blocks and modular OOP structur
 ### 🔹 [Clean Air Website](https://github.com/aynalam12/Clean-Air-Final)
 Static site promoting air quality awareness, built with HTML/CSS and responsive design.
 
+### 🔹 [Income Predictor ML](https://github.com/aynalam12/income-predictor-ml)  
+Machine learning project predicting whether a person earns above or below $50K using U.S. census data.  
+
 ### 🔹 [Fall AI Studio (Break Through Tech)] *(Coming Soon)*
 Working on responsible AI use cases with real-world datasets and model optimization.
 
