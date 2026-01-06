@@ -34,6 +34,9 @@
 ### 🔹 [Fake-News Classification](https://github.com/IshanIslam12/Fake-News-Classification2)
 Machine Learning project predicting whether or not scraped news articles are real or fake.
 
+### 🔹 [FitFuel](https://github.com/aynalam12/Fit_fuel)
+Mobile nutrition tracking app that allows real-time food search, meal logging, and personalized calorie management.
+
 ### 🔹 [Income Predictor ML](https://github.com/aynalam12/income-predictor-ml)  
 Machine learning project predicting whether a person earns above or below $50K using U.S. census data.  
 
