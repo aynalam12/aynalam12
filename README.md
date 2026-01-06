@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/Figma-informational?style=flat&logo=figma" />
   <img src="https://img.shields.io/badge/Jira-informational?style=flat&logo=jira" />
   <img src="https://img.shields.io/badge/React_Native-informational?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/Scikit--learn-informational?style=flat&logo=scikitlearn" />
 </p>
 
 ---
