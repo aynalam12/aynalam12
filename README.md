@@ -72,12 +72,4 @@ Static site promoting air quality awareness, built with HTML/CSS and responsive 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  ![Ayaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aynalam12&show_icons=true&theme=tokyonight&hide=stars)
-</p>
-
----
-
 
