@@ -24,11 +24,19 @@
   <img src="https://img.shields.io/badge/Seaborn-informational?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/Figma-informational?style=flat&logo=figma" />
   <img src="https://img.shields.io/badge/Jira-informational?style=flat&logo=jira" />
+  <img src="https://img.shields.io/badge/React_Native-informational?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Scikit--learn-informational?style=flat&logo=scikitlearn" />
 </p>
 
 ---
 
 ## 🚀 Key Projects
+
+### 🔹 [Fake-News Classification](https://github.com/IshanIslam12/Fake-News-Classification2)
+Working on responsible AI use cases with real-world datasets and model optimization.
+
+### 🔹 [Income Predictor ML](https://github.com/aynalam12/income-predictor-ml)  
+Machine learning project predicting whether a person earns above or below $50K using U.S. census data.  
 
 ### 🔹 [Pomodoro Timer](https://github.com/aynalam12/Pomodoro-Timer)
 Responsive, accessible Pomodoro app using JavaScript and CSS Grid. Helps 25+ users manage time effectively.
@@ -39,16 +47,12 @@ Java-based blockchain simulator with hash-linked blocks and modular OOP structur
 ### 🔹 [Clean Air Website](https://github.com/aynalam12/Clean-Air-Final)
 Static site promoting air quality awareness, built with HTML/CSS and responsive design.
 
-### 🔹 [Income Predictor ML](https://github.com/aynalam12/income-predictor-ml)  
-Machine learning project predicting whether a person earns above or below $50K using U.S. census data.  
 
-### 🔹 [Fake-News Classification](https://github.com/IshanIslam12/Fake-News-Classification2)
-Working on responsible AI use cases with real-world datasets and model optimization.
 
 ---
 
 ## 🏆 Certifications & Achievements
-- 🎓 Selected AI/ML Fellow at Break Through Tech AI @ Cornell Tech (Top 1% from 3,000+ applicants)
+- 🎓 AI/ML Fellow at Break Through Tech AI @ Cornell Tech (Top 1% from 3,000+ applicants)
 - 🥇 Final project showcased at Samsung 837 via America on Tech
 - 📊 Conducted an AI audit at Prudential, influencing the 2026 product strategy
 
@@ -71,8 +75,9 @@ Working on responsible AI use cases with real-world datasets and model optimizat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aynalam12&show_icons=true&theme=tokyonight&hide=stars" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aynalam12&layout=compact&theme=tokyonight" />
+  ![Ayaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aynalam12&show_icons=true&theme=tokyonight&hide=stars)
 </p>
 
 ---
+
+
