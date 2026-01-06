@@ -32,7 +32,7 @@
 ## 🚀 Key Projects
 
 ### 🔹 [Fake-News Classification](https://github.com/IshanIslam12/Fake-News-Classification2)
-Working on responsible AI use cases with real-world datasets and model optimization.
+Machine Learning project predicting whether or not scraped news articles are real or fake.
 
 ### 🔹 [Income Predictor ML](https://github.com/aynalam12/income-predictor-ml)  
 Machine learning project predicting whether a person earns above or below $50K using U.S. census data.  
