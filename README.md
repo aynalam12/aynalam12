@@ -73,9 +73,6 @@ Static site promoting air quality awareness, built with HTML/CSS and responsive 
 - 🖥 [Portfolio](https://your-portfolio-link.com) *(Coming soon)*
 
 ---
-import { ActivityMonitor, ACTIVE, INACTIVE } from 'browser-activity-monitor';
-const monitor = new ActivityMonitor(document);
-monitor.on(ACTIVE, () => console.log('User is active!'));
-monitor.on(INACTIVE, () => console.log('User is inactive!'));
+
 
 
