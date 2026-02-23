@@ -66,10 +66,6 @@ Static site promoting air quality awareness, built with HTML/CSS and responsive 
 - 🤝 Community building & mentoring in data science
 
 ---
-import { ActivityMonitor, ACTIVE, INACTIVE } from 'browser-activity-monitor';
-const monitor = new ActivityMonitor(document);
-monitor.on(ACTIVE, () => console.log('User is active!'));
-monitor.on(INACTIVE, () => console.log('User is inactive!'));
 
 ## 📬 Contact
 - 📧 Email: [ayaanalam0121@gmail.com](mailto:ayaanalam0121@gmail.com)  
