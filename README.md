@@ -61,7 +61,7 @@ Static site promoting air quality awareness, built with HTML/CSS and responsive 
 ---
 
 ## 💬 Interests & Activities
-- 📽 Video production & content for student orgs (e.g., Rutgers MSA)
+- 📽 Video production & content for student orgs
 - 🚴 Long-running and exploring new cities
 - 🤝 Community building & mentoring in data science
 
